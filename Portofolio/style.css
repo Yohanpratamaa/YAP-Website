@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+    background-color: rgba(17, 7, 31, 1);
+}
+
+.nunito{
+    font-family: "Nunito", serif;
+}
+
+.navbar {
+    background-color: rgba(26, 11, 46, 1);
+}
